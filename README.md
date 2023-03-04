@@ -1,2 +1,3 @@
-# go_crypto
-Simple repo with Go code
+
+Golang implementation of DES encryption algorithm.
+
